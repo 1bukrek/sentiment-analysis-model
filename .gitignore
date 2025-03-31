@@ -1,0 +1,21 @@
+# virtual enviroment
+venv/
+
+# python cache files
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+# model files
+*.h5
+
+# logs and temp files
+logs/
+*.log
+*.csv
+
+# IDE and OS-specific files
+.vscode/
+*.DS_Store
+Thumbs.db
