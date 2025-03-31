@@ -8,7 +8,7 @@ pycache/
 *.pyd
 
 # model files
-*.h5
+*.keras
 
 # logs and temp files
 logs/
