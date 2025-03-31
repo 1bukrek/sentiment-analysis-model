@@ -14,7 +14,7 @@ This project is a sentiment analysis model using TensorFlow and LSTM to classify
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-repo/sentiment-analysis.git
+git clone https://github.com/1bukrek/sentiment-analysis-model.git
 cd sentiment-analysis
 ```
 
